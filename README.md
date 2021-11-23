@@ -1,4 +1,6 @@
-#Aula: Testes de Hipótese - Exemplo $\chi^2$ 
+# README.md
+
+# **Aula: Testes de Hipótese - Exemplo**
 
 O conjunto de dados será utilizado para exemplificar a aplicação de um teste chi-quadrado.
 
@@ -8,4 +10,4 @@ Os dados utilizados são oficiais e disponibilizados pelo TSE. Eles foram obtido
 
 O conjunto de dados utilizado foi o `basedosdados.br_tse_eleicoes.resultados_candidato_municipio`, ele contém as contagens de voto por candidato por município. Para o exemplo vamos utilizar apenas as contagens de votos para presidente.
 
-$\rightarrow$ O TSE disponibiliza dados sobre as eleiçoes brasileiras desde 1945. Os dados incluem eleitorado, candidaturas, resultados e prestação de contas.
+ O TSE disponibiliza dados sobre as eleiçoes brasileiras desde 1945. Os dados incluem eleitorado, candidaturas, resultados e prestação de contas.
