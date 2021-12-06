@@ -1,10 +1,7 @@
 # README.md
 
-# **Aula: Testes de Hipótese - Exemplo**
+# **eleicoes**
 
-O conjunto de dados será utilizado para exemplificar a aplicação de um teste chi-quadrado.
-
-Na aula testamo se existem diferenças estatisticamente significantes no perfil de voto dos estados brasileiros.
 
 Os dados utilizados são oficiais e disponibilizados pelo TSE. Eles foram obtidos via API da <[Base dos Dados](https://basedosdados.org/)> - iniciativa focada em centralizar, tratar e disponibilizar diversas bases de dados públicas do país.
 
